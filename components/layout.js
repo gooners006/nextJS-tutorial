@@ -4,8 +4,8 @@ import Image from "next/image";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Van ngu ngok";
-export const siteTitle = "Van ngu ngok het suc";
+const name = "Viet Anh";
+export const siteTitle = "Viet Anh's Blog";
 
 export default function Layout({ children, home }) {
   return (
